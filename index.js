@@ -24,3 +24,7 @@ button.onclick = function() { // Add on click
 // let randomNumber = Math.random(); // create a random number between 0 and 1 by default
 // let randomNum = Math.floor(Math.random() * 6) + 1; // Roll a six sided dice, floor takes away decimals, +1 to remove the 0
 // let randomNumba = Math.floor(Math.random() * (max - min)) + min; // Between 1 and 100
+
+// console.log(randomNumber)
+// console.log(randomNum)
+// console.log(randomNumba)
