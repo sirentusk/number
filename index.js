@@ -15,7 +15,6 @@ button.onclick = function() { // Add on click
     label1.textContent = randomNum1;
     label2.textContent = randomNum2;
     label3.textContent = randomNum3;
-    
 }
 
 // const min = 50;
